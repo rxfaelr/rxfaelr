@@ -1,7 +1,7 @@
 <h1 align="center">Hello! 👋, I'm Rafael!</h1>
 <h3 align="center">A passionate developer from São Paulo, Brazil!</h3>
 
-- 🌱 I’m currently learning **Flutter, Dart and Javascript!**
+- 🌱 I’m currently learning **React!**
 
 - 💬 Ask me about **development, Linux, music and games!**
 
