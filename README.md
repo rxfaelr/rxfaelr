@@ -1,7 +1,7 @@
 <h1 align="center">Hello! 👋, I'm Rafael!</h1>
 <h2 align="center">A passionate developer from São Paulo, Brazil!</h2>
 <h3 align="center">I’m currently learning:<br><br> </h3<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="react" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="node" width="40" height="40"/>
 
 <br>
