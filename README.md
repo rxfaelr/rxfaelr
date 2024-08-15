@@ -14,7 +14,7 @@
 <h3 align="center">Connect with me:</h3>
 <p align="left">
 <p align="center">
-	<a href="mailto:rafaelrodrigues.ds201@gmail.com">
+	<a href="mailto:contatar.rafaelrodrigues@gmail.com">
 		<img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:rafaelrodrigues.ds201@gmail.com">
 	</a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
