@@ -1,4 +1,4 @@
-<h2 align="center">Hello!  👋<br>I'm Rafael</h2>
+<h1 align="center">Hello!  👋<br>I'm Rafael</h1>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<h4 align="center">My stack:</h4>
+<h3 align="center">My stack:</h3>
 
 ###
 
